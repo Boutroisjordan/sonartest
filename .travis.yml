@@ -1,5 +1,0 @@
- addons:
-   sonarcloud:
-     organization: "Boutroisjordan"
-     token:
-       secure: $SONAR_TOKEN
